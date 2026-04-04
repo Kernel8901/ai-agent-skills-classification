@@ -1,0 +1,11 @@
+{
+  "owner": "nixondc93",
+  "slug": "opentask",
+  "displayName": "OpenTask.ai",
+  "latest": {
+    "version": "1.0.2",
+    "publishedAt": 1770413717917,
+    "commit": "https://github.com/openclaw/skills/commit/f658729d833ed75343af4d92a7eb24d70da82af1"
+  },
+  "history": []
+}

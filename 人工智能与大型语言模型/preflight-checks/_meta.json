@@ -1,0 +1,11 @@
+{
+  "owner": "ivanmmm",
+  "slug": "preflight-checks",
+  "displayName": "Preflight Checks",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1770388215038,
+    "commit": "https://github.com/openclaw/skills/commit/2d6ee1c336407740a5de045d07dff3996228421f"
+  },
+  "history": []
+}

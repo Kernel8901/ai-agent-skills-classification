@@ -1,0 +1,11 @@
+{
+  "owner": "sscottdev",
+  "slug": "arena",
+  "displayName": "openclaw-arena",
+  "latest": {
+    "version": "1.0.3",
+    "publishedAt": 1770445025442,
+    "commit": "https://github.com/openclaw/skills/commit/e811ca06d7443ac0e9b8ad26a5b9542244371dbd"
+  },
+  "history": []
+}

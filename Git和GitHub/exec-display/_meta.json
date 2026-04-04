@@ -1,0 +1,11 @@
+{
+  "owner": "globalcaos",
+  "slug": "exec-display",
+  "displayName": "Exec Display",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1770411794970,
+    "commit": "https://github.com/openclaw/skills/commit/3792445bdd4725de2c36fcf28ea099380279037e"
+  },
+  "history": []
+}

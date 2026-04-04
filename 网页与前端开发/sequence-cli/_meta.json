@@ -1,0 +1,11 @@
+{
+  "owner": "jameslawton",
+  "slug": "sequence-cli",
+  "displayName": "sequence-cli",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1770382434522,
+    "commit": "https://github.com/openclaw/skills/commit/1649fe907b02c69a0e0e45123f960a08a97ea51c"
+  },
+  "history": []
+}

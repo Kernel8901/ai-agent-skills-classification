@@ -1,0 +1,17 @@
+{
+  "owner": "satyajiit",
+  "slug": "aster",
+  "displayName": "Skill",
+  "latest": {
+    "version": "0.1.14",
+    "publishedAt": 1770396743855,
+    "commit": "https://github.com/openclaw/skills/commit/a471f1e05d6ea6edfd9c772af5794b8de15d2581"
+  },
+  "history": [
+    {
+      "version": "0.1.7",
+      "publishedAt": 1770365814335,
+      "commit": "https://github.com/openclaw/skills/commit/a84f2e38b79a39782fb11df05547f6e6828ba814"
+    }
+  ]
+}

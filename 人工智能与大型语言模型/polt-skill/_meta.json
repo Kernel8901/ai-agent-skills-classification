@@ -1,0 +1,17 @@
+{
+  "owner": "playdadev",
+  "slug": "polt-skill",
+  "displayName": "Polt",
+  "latest": {
+    "version": "0.1.1",
+    "publishedAt": 1770398285291,
+    "commit": "https://github.com/openclaw/skills/commit/ca22629d09906dedf1051520efcfee5f0c2113fa"
+  },
+  "history": [
+    {
+      "version": "0.1.0",
+      "publishedAt": 1770298105291,
+      "commit": "https://github.com/clawdbot/skills/commit/924306d1c9317dbeb1fc828924073d8c6e63ee0e"
+    }
+  ]
+}

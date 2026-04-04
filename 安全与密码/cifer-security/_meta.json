@@ -1,0 +1,11 @@
+{
+  "owner": "tip-citron",
+  "slug": "cifer-security",
+  "displayName": "cifer",
+  "latest": {
+    "version": "0.3.1",
+    "publishedAt": 1770394234510,
+    "commit": "https://github.com/openclaw/skills/commit/6b37501c6df45515d536809359655e72ab807e92"
+  },
+  "history": []
+}

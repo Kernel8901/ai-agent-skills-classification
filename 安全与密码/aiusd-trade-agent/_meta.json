@@ -1,0 +1,17 @@
+{
+  "owner": "chaunceyliu",
+  "slug": "aiusd-trade-agent",
+  "displayName": "trade-with-aiusd",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1770426345609,
+    "commit": "https://github.com/openclaw/skills/commit/54520c1129210b6bdf0a9869654a29dd660f443f"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1770300198182,
+      "commit": "https://github.com/clawdbot/skills/commit/0741882669f07831153fbb4b47f934b86f0e53ed"
+    }
+  ]
+}

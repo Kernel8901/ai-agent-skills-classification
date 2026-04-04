@@ -1,0 +1,44 @@
+{
+  "id": "testdegen",
+  "createdAt": 1770344433636,
+  "lastTickAt": 1770346535048,
+  "lastOkAt": 1770346547687,
+  "positions": {
+    "8DcDpXBXBkNwe9kU6HqyJ8xVLiahzcLxvcYuTBL24fto": {
+      "mint": "8DcDpXBXBkNwe9kU6HqyJ8xVLiahzcLxvcYuTBL24fto",
+      "creator": "67oaJaaqLmgrx8rvxuy3ZsCn4hfCdyqoBNoSbSyCwSPQ",
+      "openedAt": 1770346535048,
+      "buySig": "59y5wXLrnfDLiYiTY8vgNNAXham4TdZLwVeyAyf2DpajM3dZDgzKZ6yh8Q24x45dJMwxhNa7vRCnzTG6sJbbycWo",
+      "buySol": 0.2,
+      "source": "dexscreener_boosts_top",
+      "venue": "pumpswap",
+      "complete": true
+    }
+  },
+  "idempotency": {
+    "buy:csSughp9qsFJVYpSr8RX1yze1wREVhXZHwvrQftpump:29505750": {
+      "t": 1770344992684,
+      "sig": "2omsLPm7auJocgSkkddPrWrYU2zeCMG4zXoMRe7bjNVkBUmx4uHCVPT7UjHXm4GGqzJKkt8TJv3LgLGAPw2cmJG7"
+    },
+    "sell:csSughp9qsFJVYpSr8RX1yze1wREVhXZHwvrQftpump:29505761": {
+      "t": 1770345662573,
+      "sig": "3PCN2Z9GYBMptTAuD27V8RsF4wa2FaP5rjZApwRmyMPs4K5mBDqUZa49NkaW2nWBEGAfLiXfTc2tY2HNhmaHDqu1"
+    },
+    "buy:csSughp9qsFJVYpSr8RX1yze1wREVhXZHwvrQftpump:29505761": {
+      "t": 1770345662573,
+      "sig": "35bfwnffFZF68vo6RfM6JYnc6weDLiigUvu25UG2edKF3XMDJzs2PqNveaz7KwF8KPeJrEXvBK1XW8s9W51WzneW"
+    },
+    "sell:csSughp9qsFJVYpSr8RX1yze1wREVhXZHwvrQftpump:29505771": {
+      "t": 1770346294999,
+      "sig": "4RcWsSmeCe189CwpDNdKHpaDqdmiVQHt7Rw4HpvTWrND8t7DdUY7J5DuuYiNQ1T14auhEwKQ4CMiL6nDatXjiT2b"
+    },
+    "buy:8DcDpXBXBkNwe9kU6HqyJ8xVLiahzcLxvcYuTBL24fto:29505775": {
+      "t": 1770346535048,
+      "sig": "59y5wXLrnfDLiYiTY8vgNNAXham4TdZLwVeyAyf2DpajM3dZDgzKZ6yh8Q24x45dJMwxhNa7vRCnzTG6sJbbycWo"
+    }
+  },
+  "cursors": {},
+  "cooldowns": {
+    "csSughp9qsFJVYpSr8RX1yze1wREVhXZHwvrQftpump": 1770348344812
+  }
+}

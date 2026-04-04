@@ -1,0 +1,11 @@
+{
+  "owner": "0xjordansg-yolo",
+  "slug": "openclaw-aisa-youtube-search-serp-video-channels-trends-content-tracking",
+  "displayName": "YouTube SERP Scout for agents. Search top-ranking videos, channels, and trends for content research and competitor tracking",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1770385189462,
+    "commit": "https://github.com/openclaw/skills/commit/17daa42a6a27b79414c12dac828a3ec7ae7fdd0e"
+  },
+  "history": []
+}

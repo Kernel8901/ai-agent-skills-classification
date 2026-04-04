@@ -1,0 +1,22 @@
+{
+  "owner": "nitishgargiitd",
+  "slug": "video-cog",
+  "displayName": "video-cog",
+  "latest": {
+    "version": "1.0.2",
+    "publishedAt": 1770420071362,
+    "commit": "https://github.com/openclaw/skills/commit/461d93c0b9ee3938d363566e8f7a193e65550aba"
+  },
+  "history": [
+    {
+      "version": "1.0.1",
+      "publishedAt": 1770270333787,
+      "commit": "https://github.com/clawdbot/skills/commit/b6d02a5f2af327594e30c876e36ac44a9f4b8927"
+    },
+    {
+      "version": "1.0.0",
+      "publishedAt": 1770176494040,
+      "commit": "https://github.com/clawdbot/skills/commit/f010132ef97c2fa88fbdc27c4df8d28f7af0ace5"
+    }
+  ]
+}

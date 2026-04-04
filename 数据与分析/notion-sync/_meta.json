@@ -1,0 +1,11 @@
+{
+  "owner": "robansuini",
+  "slug": "notion-sync",
+  "displayName": "Notion Sync",
+  "latest": {
+    "version": "1.0.2",
+    "publishedAt": 1770389821908,
+    "commit": "https://github.com/openclaw/skills/commit/204b236e10d1231d8c7fd40d508d41c76339ad68"
+  },
+  "history": []
+}

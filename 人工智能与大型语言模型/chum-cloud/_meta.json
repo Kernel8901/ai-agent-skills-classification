@@ -1,0 +1,17 @@
+{
+  "owner": "makoto-isback",
+  "slug": "chum-cloud",
+  "displayName": "Chum Cloud",
+  "latest": {
+    "version": "1.5.0",
+    "publishedAt": 1770440625283,
+    "commit": "https://github.com/openclaw/skills/commit/16736d53f1ee07ffd58a828ffa38422bb7643e32"
+  },
+  "history": [
+    {
+      "version": "1.4.0",
+      "publishedAt": 1770271282991,
+      "commit": "https://github.com/clawdbot/skills/commit/db775a789d4f5da137b0de6d877470bf97db95fd"
+    }
+  ]
+}

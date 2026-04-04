@@ -1,0 +1,17 @@
+{
+  "owner": "alirezarezvani",
+  "slug": "quality-manager-qmr",
+  "displayName": "Quality Manager Qmr",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1770402697531,
+    "commit": "https://github.com/openclaw/skills/commit/8438bdad0a0ad8afa4edf3ee51b48517c699a926"
+  },
+  "history": [
+    {
+      "version": "0.1.0",
+      "publishedAt": 1770022467249,
+      "commit": "https://github.com/clawdbot/skills/commit/e24f9a25accb8f1d316f8ed2b3925f351ef744a9"
+    }
+  ]
+}

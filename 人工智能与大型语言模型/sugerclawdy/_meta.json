@@ -1,0 +1,11 @@
+{
+  "owner": "demomagic",
+  "slug": "sugerclawdy",
+  "displayName": "sugerclawdy skill",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1770381904723,
+    "commit": "https://github.com/openclaw/skills/commit/25c6088e55f63d991776fdcdc0c7739e5c355c4d"
+  },
+  "history": []
+}

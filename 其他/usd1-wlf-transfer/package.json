@@ -1,0 +1,10 @@
+{
+  "name": "usd1-wlf-transfer",
+  "version": "1.0.0",
+  "description": "USD1 transfer via Wormhole",
+  "main": "index.js",
+  "dependencies": {
+    "@wormhole-foundation/sdk": "*",
+    "@wormhole-foundation/sdk-base": "*"
+  }
+}

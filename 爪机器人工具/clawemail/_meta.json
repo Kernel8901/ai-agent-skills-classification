@@ -1,0 +1,11 @@
+{
+  "owner": "cto1",
+  "slug": "clawemail",
+  "displayName": "ClawEmail",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1770392702319,
+    "commit": "https://github.com/openclaw/skills/commit/7abdb8749df6e195083d0fc567ededa9c1a1013f"
+  },
+  "history": []
+}

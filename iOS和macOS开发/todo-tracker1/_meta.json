@@ -1,0 +1,11 @@
+{
+  "owner": "thiagoruss0",
+  "slug": "todo-tracker1",
+  "displayName": "TODO Tracker",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1770440714372,
+    "commit": "https://github.com/openclaw/skills/commit/878a55e51bab036e7b8bcabc84ce263be68b5be1"
+  },
+  "history": []
+}

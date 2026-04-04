@@ -1,0 +1,11 @@
+{
+  "owner": "asgherali",
+  "slug": "usd1-wlf-transfer",
+  "displayName": "Usd1 Wlf Transfer",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1770393225854,
+    "commit": "https://github.com/openclaw/skills/commit/c6cca2ab8d0c91a1b0641a48adb2b9ea85f0b3bb"
+  },
+  "history": []
+}

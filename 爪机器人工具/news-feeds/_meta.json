@@ -1,0 +1,17 @@
+{
+  "owner": "lknik",
+  "slug": "news-feeds",
+  "displayName": "Simple RSS news feed",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1770380724773,
+    "commit": "https://github.com/openclaw/skills/commit/30dd0d3443799afb7a759fd5d31ca504fbcc411d"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1770299429270,
+      "commit": "https://github.com/clawdbot/skills/commit/b52f0c69a2e43488ec1952a371b588395399a94d"
+    }
+  ]
+}

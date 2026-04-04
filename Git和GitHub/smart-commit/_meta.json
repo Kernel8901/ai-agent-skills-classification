@@ -1,0 +1,11 @@
+{
+  "owner": "das-monki",
+  "slug": "smart-commit",
+  "displayName": "Smart Commit (Conventional Commits)",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1770416906581,
+    "commit": "https://github.com/openclaw/skills/commit/7ec562d9318007e14fbddeda30f3c9407535e393"
+  },
+  "history": []
+}

@@ -1,0 +1,48 @@
+{
+  "id": "testdegen",
+  "kind": "auto_trade",
+  "enabled": true,
+  "tickSec": 60,
+  "wallet": "default",
+  "budgets": {
+    "minSolBalance": 0.5,
+    "buySolPerTrade": 0.2,
+    "maxOpenPositions": 1,
+    "maxBuysPerHour": 20,
+    "maxLossSolPerDay": 1
+  },
+  "slippage": {
+    "mode": "auto",
+    "maxPct": 30
+  },
+  "fees": {
+    "mode": "auto",
+    "maxSol": 0.05,
+    "cuLimit": 250000,
+    "cuPrice": 666666
+  },
+  "riskProfile": "DEGEN",
+  "discovery": {
+    "usePumpfunNewCoins": false,
+    "sources": {
+      "dexscreenerBoostsTop": true,
+      "dexscreenerBoostsLatest": true,
+      "dexscreenerAdsLatest": true,
+      "pumpfunTrending": true
+    },
+    "filters": {
+      "chainId": "solana",
+      "marketCapMin": 100000,
+      "marketCapMax": 300000,
+      "volume24hMin": 500000,
+      "tokenAgeMinSec": null,
+      "tokenAgeMaxSec": null
+    }
+  },
+  "execution": {
+    "dryRun": false,
+    "slippageBps": 500,
+    "exitAfterSec": 600,
+    "cooldownAfterSellSec": 1800
+  }
+}

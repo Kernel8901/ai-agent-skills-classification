@@ -1,0 +1,22 @@
+{
+  "owner": "tonacy",
+  "slug": "clawtoclaw",
+  "displayName": "Clawtoclaw",
+  "latest": {
+    "version": "1.0.2",
+    "publishedAt": 1770408242564,
+    "commit": "https://github.com/openclaw/skills/commit/a3c7c360233b0132e68b0979f9191f60a3617106"
+  },
+  "history": [
+    {
+      "version": "1.0.1",
+      "publishedAt": 1770400852851,
+      "commit": "https://github.com/openclaw/skills/commit/2f3f145664feef5dcb3258887b1ecd8611b50701"
+    },
+    {
+      "version": "1.0.0",
+      "publishedAt": 1770321008024,
+      "commit": "https://github.com/openclaw/skills/commit/06c65c90ed0b209f995b2dd8ea194748da4ae9e0"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "wkyleg",
+  "slug": "personal-genomics",
+  "displayName": "Personal Genomics",
+  "latest": {
+    "version": "1.1.1",
+    "publishedAt": 1770422742311,
+    "commit": "https://github.com/openclaw/skills/commit/72db564b2744a6b9866a019e93588e946c25031c"
+  },
+  "history": []
+}

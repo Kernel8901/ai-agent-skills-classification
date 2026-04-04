@@ -1,0 +1,22 @@
+{
+  "owner": "emberdesire",
+  "slug": "hopeids",
+  "displayName": "Openclaw Plugin",
+  "latest": {
+    "version": "1.3.1",
+    "publishedAt": 1770405058720,
+    "commit": "https://github.com/openclaw/skills/commit/c4ab00499859dc872ef178fb8d623571a9702032"
+  },
+  "history": [
+    {
+      "version": "1.2.0",
+      "publishedAt": 1770371167833,
+      "commit": "https://github.com/openclaw/skills/commit/80013bc4d8fd456e93cf9242917b00fcaeacefae"
+    },
+    {
+      "version": "0.1.0",
+      "publishedAt": 1770244786145,
+      "commit": "https://github.com/clawdbot/skills/commit/a5802f9aa2675b307c9cff7fbe3e1bf172d33c97"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "stveenli",
+  "slug": "ytwatchervideo",
+  "displayName": "Youtube Watcher",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1770402659704,
+    "commit": "https://github.com/openclaw/skills/commit/ea44c2936610af755f31d2a71775f45bcf9c0c25"
+  },
+  "history": []
+}

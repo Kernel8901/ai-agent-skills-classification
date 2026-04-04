@@ -1,0 +1,11 @@
+{
+  "owner": "adlai88",
+  "slug": "simmer-ai-divergence",
+  "displayName": "Ai Divergence",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1770442584761,
+    "commit": "https://github.com/openclaw/skills/commit/c1008a131705d294fde95c6a970b1fe091d3d526"
+  },
+  "history": []
+}

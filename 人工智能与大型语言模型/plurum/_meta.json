@@ -1,0 +1,17 @@
+{
+  "owner": "berkay-dune",
+  "slug": "plurum",
+  "displayName": "Plurum",
+  "latest": {
+    "version": "0.4.0",
+    "publishedAt": 1770412771709,
+    "commit": "https://github.com/openclaw/skills/commit/07f9cb451f60ac92253be06020ea31f5e8734dca"
+  },
+  "history": [
+    {
+      "version": "0.1.0",
+      "publishedAt": 1769857129317,
+      "commit": "https://github.com/clawdbot/skills/commit/c97cbc89e3cd1a6f075c8de899ce3a959eb97279"
+    }
+  ]
+}

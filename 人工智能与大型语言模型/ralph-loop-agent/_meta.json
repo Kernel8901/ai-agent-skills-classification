@@ -1,0 +1,11 @@
+{
+  "owner": "addozhang",
+  "slug": "ralph-loop-agent",
+  "displayName": "Ralph Loop (Agent Mode)",
+  "latest": {
+    "version": "1.1.0",
+    "publishedAt": 1770354202802,
+    "commit": "https://github.com/openclaw/skills/commit/6ad73ae74f61c4a1ec9e7fc4aed512954dc9308c"
+  },
+  "history": []
+}

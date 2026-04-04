@@ -1,0 +1,11 @@
+{
+  "owner": "xiwan",
+  "slug": "content-distributor",
+  "displayName": "content-distributor",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1770385551705,
+    "commit": "https://github.com/openclaw/skills/commit/7477381314bfaa621c58845e42f11776541c98b0"
+  },
+  "history": []
+}

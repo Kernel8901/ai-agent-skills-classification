@@ -1,0 +1,17 @@
+{
+  "owner": "chaunceyliu",
+  "slug": "aiusd-skills",
+  "displayName": "Aiusd Skills",
+  "latest": {
+    "version": "0.1.1",
+    "publishedAt": 1770426322388,
+    "commit": "https://github.com/openclaw/skills/commit/4ea9368dcfc8ca448dda8caee9c9f0fb32cbd730"
+  },
+  "history": [
+    {
+      "version": "0.1.0",
+      "publishedAt": 1770289196994,
+      "commit": "https://github.com/clawdbot/skills/commit/28b4c99c492430103ad21f50da0090914c8a1af3"
+    }
+  ]
+}

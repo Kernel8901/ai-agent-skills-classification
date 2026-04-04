@@ -1,0 +1,17 @@
+{
+  "owner": "byungkyu",
+  "slug": "linear-api",
+  "displayName": "Linear",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1770380346797,
+    "commit": "https://github.com/openclaw/skills/commit/5b59894ec747e5b8a835b0f57584d66eb2dbbf31"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1770350609889,
+      "commit": "https://github.com/openclaw/skills/commit/4465f40ade61194fd425549254f6724391d944a3"
+    }
+  ]
+}

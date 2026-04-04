@@ -1,0 +1,11 @@
+{
+  "owner": "geoffreycasaubon",
+  "slug": "norway-roads",
+  "displayName": "Norway Roads",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1770384596191,
+    "commit": "https://github.com/openclaw/skills/commit/a44cf78f778c5db2811cedcdcb4ba371ca0dd8bf"
+  },
+  "history": []
+}

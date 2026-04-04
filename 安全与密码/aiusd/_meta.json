@@ -1,0 +1,17 @@
+{
+  "owner": "chaunceyliu",
+  "slug": "aiusd",
+  "displayName": "aiusd",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1770426412173,
+    "commit": "https://github.com/openclaw/skills/commit/1b3246d627a02ee21ad30fc28bfad93c2f8d46c1"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1770339637221,
+      "commit": "https://github.com/openclaw/skills/commit/bd2e0e94751c1f10c4d0616f7abf315edac48536"
+    }
+  ]
+}

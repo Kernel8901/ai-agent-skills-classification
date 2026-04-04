@@ -1,0 +1,11 @@
+{
+  "owner": "developmentcats",
+  "slug": "coder-workspaces",
+  "displayName": "Coder Workspaces",
+  "latest": {
+    "version": "1.5.1",
+    "publishedAt": 1770410671003,
+    "commit": "https://github.com/openclaw/skills/commit/47418344ec31904daf9a0e06467167082c46af57"
+  },
+  "history": []
+}

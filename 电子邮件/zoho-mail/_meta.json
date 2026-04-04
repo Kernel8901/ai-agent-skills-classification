@@ -1,0 +1,11 @@
+{
+  "owner": "byungkyu",
+  "slug": "zoho-mail",
+  "displayName": "Zoho Mail",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1770379742851,
+    "commit": "https://github.com/openclaw/skills/commit/e8d6ff9b7246bb321ebfcfaf61020c65f08214ab"
+  },
+  "history": []
+}

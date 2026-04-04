@@ -1,0 +1,11 @@
+{
+  "owner": "das-monki",
+  "slug": "piper-tts",
+  "displayName": "Local TTS (Piper ONNX Voices)",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1770402569240,
+    "commit": "https://github.com/openclaw/skills/commit/13c548bc8613d35ad7bef35f09442149cc3cb03a"
+  },
+  "history": []
+}

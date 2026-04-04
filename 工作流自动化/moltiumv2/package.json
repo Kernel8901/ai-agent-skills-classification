@@ -1,0 +1,30 @@
+{
+  "name": "moltium-v2",
+  "version": "2.0.2",
+  "private": true,
+  "type": "module",
+  "description": "MoltiumV2: RPC-first, local-only Solana trade/deploy toolkit + OpenClaw Skill docs (pump.fun deploy+bonding, PumpSwap, Raydium AMM v4, autostrategy).",
+  "homepage": "https://moltium.fun",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cariciman/Moltium-V2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cariciman/Moltium-V2/issues"
+  },
+  "license": "MIT",
+  "scripts": {
+    "init": "node tools/moltium/local/ctl.mjs init --pretty",
+    "doctor": "node tools/moltium/local/ctl.mjs doctor --pretty",
+    "pack": "node scripts/release_pack.mjs --version 2.0.2 --latest"
+  },
+  "dependencies": {
+    "@coral-xyz/borsh": "^0.32.1",
+    "@raydium-io/raydium-sdk": "^1.3.1-beta.58",
+    "@solana/spl-token": "^0.4.14",
+    "@solana/web3.js": "^1.98.4",
+    "bn.js": "^5.2.2",
+    "bs58": "^6.0.0",
+    "pngjs": "^7.0.0"
+  }
+}

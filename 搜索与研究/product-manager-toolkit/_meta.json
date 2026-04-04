@@ -1,0 +1,17 @@
+{
+  "owner": "alirezarezvani",
+  "slug": "product-manager-toolkit",
+  "displayName": "Product Manager Toolkit",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1770402568873,
+    "commit": "https://github.com/openclaw/skills/commit/8b3746bbc9559d1ea1a4f3ecc6c55485b831127c"
+  },
+  "history": [
+    {
+      "version": "0.1.0",
+      "publishedAt": 1769760060052,
+      "commit": "https://github.com/clawdbot/skills/commit/c1a601b3d8773cbe4be70c12490f4bd09a49f156"
+    }
+  ]
+}

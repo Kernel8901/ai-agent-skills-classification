@@ -1,0 +1,11 @@
+{
+  "owner": "davienzomq",
+  "slug": "context-gatekeeper",
+  "displayName": "Context Gatekeeper",
+  "latest": {
+    "version": "0.1.1",
+    "publishedAt": 1770385059455,
+    "commit": "https://github.com/openclaw/skills/commit/9fe1c8cbea0805f7af87cc875fbc741c34a8c9fe"
+  },
+  "history": []
+}

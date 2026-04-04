@@ -1,0 +1,11 @@
+{
+  "owner": "tuanpmt",
+  "slug": "mxe",
+  "displayName": "Mxe",
+  "latest": {
+    "version": "2.0.0",
+    "publishedAt": 1770395247462,
+    "commit": "https://github.com/openclaw/skills/commit/b2d2041641b68f39a4f4058d2036eea8338a5967"
+  },
+  "history": []
+}

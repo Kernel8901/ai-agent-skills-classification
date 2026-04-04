@@ -1,0 +1,17 @@
+{
+  "owner": "byungkyu",
+  "slug": "monday",
+  "displayName": "Monday.com",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1770380371807,
+    "commit": "https://github.com/openclaw/skills/commit/ef7853b394bd7e839489ad17c80277d10cfe6f7c"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1770350648294,
+      "commit": "https://github.com/openclaw/skills/commit/16e575325218ee1da0d3c244cb8b098929715cbe"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "ractorrr",
+  "slug": "arxiv",
+  "displayName": "arXiv Research Assistant",
+  "latest": {
+    "version": "1.0.4",
+    "publishedAt": 1770397716359,
+    "commit": "https://github.com/openclaw/skills/commit/7e1cffb9ec148ae740f60858f027b6f39a1fbfc4"
+  },
+  "history": []
+}

@@ -1,0 +1,34 @@
+{
+  "id": "feesmoke",
+  "createdAt": 1770357066278,
+  "lastTickAt": 1770357100687,
+  "lastOkAt": 1770357166758,
+  "positions": {
+    "D7r16GRPCf8NrcZCLXYWvXErciBgRcb8WbMDqXN6pump": {
+      "mint": "D7r16GRPCf8NrcZCLXYWvXErciBgRcb8WbMDqXN6pump",
+      "creator": "",
+      "openedAt": 1770357100687,
+      "buySig": "2Y6UhcHFnJmvdW7QARToC9yynuY6WE9wvFkkqXyZXrt1qNQResNuJFFrMT3Ne42hVTgxLS61AMzFAp76yZwxJnJ1",
+      "buySol": 0.01,
+      "source": "force_mint",
+      "venue": "pumpswap",
+      "complete": true
+    }
+  },
+  "idempotency": {
+    "buy:D7r16GRPCf8NrcZCLXYWvXErciBgRcb8WbMDqXN6pump:29505951": {
+      "t": 1770357066278,
+      "sig": "5BkvgoPm2fuGzHjWFyvF8ycvnYREh2QsNReq9kJK12KzV3o9jssCapXfVnJ5k5m5p9PKKHQzGBf3d1s5Ag1ribsw"
+    },
+    "sell:D7r16GRPCf8NrcZCLXYWvXErciBgRcb8WbMDqXN6pump:29505951": {
+      "t": 1770357100687,
+      "sig": "3wgxsjrCMtb9nXACXjzw9ayC3yuerNLF7FT2KpJEwpqhFG2yvqzqVHSEBjPeVLsWo11DGFvuRV4w1anQkK3yHBnk"
+    },
+    "buy:D7r16GRPCf8NrcZCLXYWvXErciBgRcb8WbMDqXN6pump:29505952": {
+      "t": 1770357100687,
+      "sig": "2Y6UhcHFnJmvdW7QARToC9yynuY6WE9wvFkkqXyZXrt1qNQResNuJFFrMT3Ne42hVTgxLS61AMzFAp76yZwxJnJ1"
+    }
+  },
+  "cooldowns": {},
+  "cursors": {}
+}

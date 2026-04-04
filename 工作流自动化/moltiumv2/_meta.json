@@ -1,0 +1,11 @@
+{
+  "owner": "cariciman",
+  "slug": "moltiumv2",
+  "displayName": "MoltiumV2",
+  "latest": {
+    "version": "2.0.2",
+    "publishedAt": 1770402063490,
+    "commit": "https://github.com/openclaw/skills/commit/969c608ea1030ea039d827cd382faff7755124e9"
+  },
+  "history": []
+}

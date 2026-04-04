@@ -1,0 +1,11 @@
+{
+  "owner": "hopyky",
+  "slug": "wikijs",
+  "displayName": "Wiki.js CLI",
+  "latest": {
+    "version": "1.4.0",
+    "publishedAt": 1770409744267,
+    "commit": "https://github.com/openclaw/skills/commit/76d92b3dfec0a634a80749a2513fc3789045c2a2"
+  },
+  "history": []
+}

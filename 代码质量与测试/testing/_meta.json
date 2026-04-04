@@ -1,0 +1,11 @@
+{
+  "owner": "crispyaus",
+  "slug": "testing",
+  "displayName": "testing",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1770381030566,
+    "commit": "https://github.com/openclaw/skills/commit/cf88848878110d60034ea465de447b925efc6d33"
+  },
+  "history": []
+}

@@ -1,0 +1,22 @@
+{
+  "owner": "thomaslwang",
+  "slug": "og-openclawguard",
+  "displayName": "test",
+  "latest": {
+    "version": "2.0.1",
+    "publishedAt": 1770418427200,
+    "commit": "https://github.com/openclaw/skills/commit/b37687a51d7ada44865efc223ae2ee82caab484e"
+  },
+  "history": [
+    {
+      "version": "2.0.0",
+      "publishedAt": 1770381070119,
+      "commit": "https://github.com/openclaw/skills/commit/70eda9d9857582717225da275781b68d630f2754"
+    },
+    {
+      "version": "1.1.0",
+      "publishedAt": 1770305985962,
+      "commit": "https://github.com/clawdbot/skills/commit/e383ac21f27834408a9d8b1658dffb5956407fba"
+    }
+  ]
+}

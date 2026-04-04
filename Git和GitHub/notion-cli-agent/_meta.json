@@ -1,0 +1,11 @@
+{
+  "owner": "froemic",
+  "slug": "notion-cli-agent",
+  "displayName": "Notion CLI – Command Line Interface based access to Notion for your agent",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1770400939280,
+    "commit": "https://github.com/openclaw/skills/commit/ec9ff39f49710272f6adbade16b3cd49a2a6889d"
+  },
+  "history": []
+}

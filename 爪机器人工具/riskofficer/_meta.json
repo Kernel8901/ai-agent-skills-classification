@@ -1,0 +1,17 @@
+{
+  "owner": "mib424242",
+  "slug": "riskofficer",
+  "displayName": "RiskOfficer",
+  "latest": {
+    "version": "1.1.0",
+    "publishedAt": 1770406227500,
+    "commit": "https://github.com/openclaw/skills/commit/07f3d8ae7a5e5128f4839f1d77f674a6b735610f"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1770214577035,
+      "commit": "https://github.com/clawdbot/skills/commit/d60935989cebf929a4c4bc832d25d9c6cd0d94f4"
+    }
+  ]
+}

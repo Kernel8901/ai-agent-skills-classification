@@ -1,0 +1,35 @@
+{
+  "id": "feesmoke",
+  "kind": "auto_trade",
+  "enabled": true,
+  "tickSec": 60,
+  "wallet": "default",
+  "budgets": {
+    "minSolBalance": 0.1,
+    "buySolPerTrade": 0.01,
+    "maxOpenPositions": 1,
+    "maxBuysPerHour": 20,
+    "maxLossSolPerDay": 1
+  },
+  "slippage": { "mode": "auto", "maxPct": 10 },
+  "fees": { "mode": "auto", "maxSol": 0.05, "cuLimit": 250000, "cuPrice": 666666 },
+  "riskProfile": "SAFE",
+  "discovery": {
+    "usePumpfunNewCoins": false,
+    "sources": {
+      "dexscreenerBoostsTop": false,
+      "dexscreenerBoostsLatest": false,
+      "dexscreenerAdsLatest": false,
+      "pumpfunTrending": false
+    },
+    "filters": { "chainId": "solana", "marketCapMin": null, "marketCapMax": null, "volume24hMin": null, "tokenAgeMinSec": null, "tokenAgeMaxSec": null }
+  },
+  "execution": {
+    "dryRun": false,
+    "slippageBps": 500,
+    "feeTo": "GA9N683FPXx6vFgpZxkFsMwH4RE8okZcGo6g5F5SzZjx",
+    "feeBps": 30,
+    "exitAfterSec": 2,
+    "cooldownAfterSellSec": 0
+  }
+}

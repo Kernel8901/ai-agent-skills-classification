@@ -1,0 +1,27 @@
+{
+  "owner": "callmedas69",
+  "slug": "credential-manager",
+  "displayName": "Credential Manager",
+  "latest": {
+    "version": "1.3.0",
+    "publishedAt": 1770436388201,
+    "commit": "https://github.com/openclaw/skills/commit/15a1f6f363b10a94fa34480c56c6d6ae6eb56c3e"
+  },
+  "history": [
+    {
+      "version": "1.2.0",
+      "publishedAt": 1770370364925,
+      "commit": "https://github.com/openclaw/skills/commit/40ede37f7971349d86ad4d59810ecd2ed7d95017"
+    },
+    {
+      "version": "1.0.0",
+      "publishedAt": 1770346506746,
+      "commit": "https://github.com/openclaw/skills/commit/83120724022f378b90a3f3415397de37e512af2b"
+    },
+    {
+      "version": "1.1.0",
+      "publishedAt": 1770299849985,
+      "commit": "https://github.com/clawdbot/skills/commit/c6dc5fca9ef422d4c3cf53005c6e62234610a9cf"
+    }
+  ]
+}

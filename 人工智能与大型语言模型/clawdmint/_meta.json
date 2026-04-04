@@ -1,0 +1,11 @@
+{
+  "owner": "clawdmintt",
+  "slug": "clawdmint",
+  "displayName": "Clawdmint",
+  "latest": {
+    "version": "1.2.0",
+    "publishedAt": 1770382015339,
+    "commit": "https://github.com/openclaw/skills/commit/d547cb275ee0383b4b6a9a057cab87618efc0347"
+  },
+  "history": []
+}

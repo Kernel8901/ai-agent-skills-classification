@@ -1,0 +1,11 @@
+{
+  "owner": "gardenchan",
+  "slug": "tencentcloud-cvm-skill",
+  "displayName": "Tencent Cloud CVM",
+  "latest": {
+    "version": "1.0.2",
+    "publishedAt": 1770384200644,
+    "commit": "https://github.com/openclaw/skills/commit/3bcd8d4c7255d81faa9d828e1a8ba0034575b67e"
+  },
+  "history": []
+}

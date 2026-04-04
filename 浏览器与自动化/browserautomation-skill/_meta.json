@@ -1,0 +1,11 @@
+{
+  "owner": "stveenli",
+  "slug": "browserautomation-skill",
+  "displayName": "Browser Automation",
+  "latest": {
+    "version": "1.0.2",
+    "publishedAt": 1770391470648,
+    "commit": "https://github.com/openclaw/skills/commit/ffe812152578b7754863fbddf0a4eb48e14a2ac4"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "korddie",
+  "slug": "sapi-tts",
+  "displayName": "Sapi Tts",
+  "latest": {
+    "version": "1.1.0",
+    "publishedAt": 1770399369076,
+    "commit": "https://github.com/openclaw/skills/commit/f0821753cd28341b62c265a91238cffbbc0fb436"
+  },
+  "history": []
+}

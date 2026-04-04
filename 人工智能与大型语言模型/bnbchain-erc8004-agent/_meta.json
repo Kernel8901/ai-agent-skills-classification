@@ -1,0 +1,11 @@
+{
+  "owner": "0xlucasliao",
+  "slug": "bnbchain-erc8004-agent",
+  "displayName": "bnbchain-erc8004-agent",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1770396546958,
+    "commit": "https://github.com/openclaw/skills/commit/0491b29d40f4a8d7fb89d460e5357cd6d21b7a7b"
+  },
+  "history": []
+}

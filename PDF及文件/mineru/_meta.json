@@ -1,0 +1,11 @@
+{
+  "owner": "easonai-5589",
+  "slug": "mineru",
+  "displayName": "MinerU PDF Parser",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1770380318908,
+    "commit": "https://github.com/openclaw/skills/commit/3f6496730d3fa0632dba15cb1fed002eee6c9edd"
+  },
+  "history": []
+}

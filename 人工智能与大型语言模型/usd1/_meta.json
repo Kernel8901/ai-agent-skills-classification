@@ -1,0 +1,11 @@
+{
+  "owner": "asgherali",
+  "slug": "usd1",
+  "displayName": "usd1 transfer",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1770384469186,
+    "commit": "https://github.com/openclaw/skills/commit/b1baec952b1b288462a566e56904737a3084c176"
+  },
+  "history": []
+}

@@ -1,0 +1,17 @@
+{
+  "owner": "alirezarezvani",
+  "slug": "aws-solution-architect",
+  "displayName": "Aws Solution Architect",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1770402396459,
+    "commit": "https://github.com/openclaw/skills/commit/f10045eb2ce969bf5b120d5e3565f853c993772d"
+  },
+  "history": [
+    {
+      "version": "0.1.0",
+      "publishedAt": 1769737480802,
+      "commit": "https://github.com/clawdbot/skills/commit/63be3aacec6382c80b5677492e2f10864f55ec62"
+    }
+  ]
+}

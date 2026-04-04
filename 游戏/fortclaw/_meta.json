@@ -1,0 +1,11 @@
+{
+  "owner": "b1w1c",
+  "slug": "fortclaw",
+  "displayName": "FortClaw Game",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1770408618236,
+    "commit": "https://github.com/openclaw/skills/commit/bd9237b48cd0d30c99aae3e3f9081bdf936022c9"
+  },
+  "history": []
+}

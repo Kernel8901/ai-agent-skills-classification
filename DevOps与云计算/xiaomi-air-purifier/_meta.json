@@ -1,0 +1,11 @@
+{
+  "owner": "radyakaze",
+  "slug": "xiaomi-air-purifier",
+  "displayName": "Xiaomi Air Purifier",
+  "latest": {
+    "version": "1.0.2",
+    "publishedAt": 1770392439742,
+    "commit": "https://github.com/openclaw/skills/commit/0ae4debd0bc04dfefeeba135fc8ad7553ef68e07"
+  },
+  "history": []
+}

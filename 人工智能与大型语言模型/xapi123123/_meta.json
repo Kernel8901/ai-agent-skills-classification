@@ -1,0 +1,11 @@
+{
+  "owner": "glacier-luo",
+  "slug": "xapi123123",
+  "displayName": "xAPI",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1770388095235,
+    "commit": "https://github.com/openclaw/skills/commit/935a8c5d3b0f24349e1df066a1b6e53370ef2e76"
+  },
+  "history": []
+}

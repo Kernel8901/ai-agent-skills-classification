@@ -1,0 +1,11 @@
+{
+  "owner": "benediktschackenberg",
+  "slug": "azure-proxy",
+  "displayName": "Azure OpenAI Proxy",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1770388661226,
+    "commit": "https://github.com/openclaw/skills/commit/84d08636e7e4dbb3ee35e670347b7a1335084744"
+  },
+  "history": []
+}

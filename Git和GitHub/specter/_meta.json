@@ -1,0 +1,11 @@
+{
+  "owner": "froemic",
+  "slug": "specter",
+  "displayName": "Specter CLI – AI powered startup and deal sourcing",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1770399259963,
+    "commit": "https://github.com/openclaw/skills/commit/97a54c081590edd35741bc4a92eb5c76ac1b18bb"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "globalcaos",
+  "slug": "knowledge-base",
+  "displayName": "Knowledge Base",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1770411787052,
+    "commit": "https://github.com/openclaw/skills/commit/39a560497434b190ea3715539f3ffaaac3d91c6e"
+  },
+  "history": []
+}

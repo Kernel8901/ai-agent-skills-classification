@@ -1,0 +1,11 @@
+{
+  "owner": "scotthuang",
+  "slug": "stp",
+  "displayName": "结构化任务规划与分步执行（Structured Task Planning）。支持两种模式：(1) 文件模式 - 从 Markdown 任务文档加载步骤执行；(2) 自然语言模式 - 接受自然语言任务描述，自动生成计划书并确认后执行。触发词：/stp、任务规划、步骤执行。功能包括：步骤分解、状态跟踪、执行日志记录、快速失败策略。",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1770401530920,
+    "commit": "https://github.com/openclaw/skills/commit/fae69c23d7a98059e1ecb8af9e9649ded823340d"
+  },
+  "history": []
+}

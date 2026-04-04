@@ -1,0 +1,11 @@
+{
+  "owner": "captchasco",
+  "slug": "captchas-openclaw",
+  "displayName": "CAPTCHAS OpenClaw",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1770389651983,
+    "commit": "https://github.com/openclaw/skills/commit/72b7f9a17c4ab6b074148413c3703bd512702ca5"
+  },
+  "history": []
+}

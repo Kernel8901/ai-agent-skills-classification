@@ -1,0 +1,11 @@
+{
+  "owner": "globalcaos",
+  "slug": "chatgpt-exporter-ultimate",
+  "displayName": "Chatgpt Export",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1770393865424,
+    "commit": "https://github.com/openclaw/skills/commit/e0ef2a5f308892278c56628924f8b1c01ba29e4d"
+  },
+  "history": []
+}

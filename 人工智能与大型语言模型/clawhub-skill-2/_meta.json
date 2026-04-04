@@ -1,0 +1,11 @@
+{
+  "owner": "pathemata-mathemata",
+  "slug": "clawhub-skill-2",
+  "displayName": "Clawhub Skill",
+  "latest": {
+    "version": "0.1.2",
+    "publishedAt": 1770419140695,
+    "commit": "https://github.com/openclaw/skills/commit/c1c177d1ec2ca091255c0ba2b672549bf5fbef49"
+  },
+  "history": []
+}
