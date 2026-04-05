@@ -37,3 +37,6 @@ build/
 .Spotlight-V100
 .Trashes
 ehthumbs.db
+
+# Release artifacts
+*.zip
