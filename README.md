@@ -36,7 +36,7 @@ Simply navigate through the directory structure on GitHub to explore skills by c
 
 ### Clone for Local Use
 ```bash
-git clone https://github.com/your-username/ai-agent-skills-classification.git
+git clone https://github.com/Kernel8901/ai-agent-skills-classification.git
 cd ai-agent-skills-classification
 ```
 
